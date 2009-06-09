@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="4df9b9bf-8268-45ce-a442-39f2b183bdba" kpf_version="4" name="LotteryToolBox.kpf">
+<preference-set idref="4df9b9bf-8268-45ce-a442-39f2b183bdba">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>

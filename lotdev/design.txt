@@ -1,0 +1,21 @@
+Design
+
+
+Lottery Tool Brief
+-================-
+
+Create a tool for dealing with lottery number analysis, result tracking and statistics as well as picking numbers based on analysis.
+
+
+Main premise for number selection engine is to work on the principle of lottery-triples i.e the most commonly re-occuring 3 number selections.
+Design points - have all of the current lottery draw history, provide updates weekly via a webservice.
+
+Mine draw history as well as collect stats from other sources. Look for patterns on draws and correlate number sets.
+
+
+Features :
+Print tickets
+Perform online entries
+Record Number Selections
+Check Lottery Results
+Allow for lucky numbers - e.g. number the users wants to manually play either single or in 3-number groups.
